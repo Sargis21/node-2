@@ -1,0 +1,97 @@
+{
+  name: 'Error',
+  statusCode: 400,
+  isOperational: true,
+  level: 'error',
+  message: 'Bad request',
+  stack: 'Error: Bad request\n' +
+    '    at new BaseError (/home/sargis/Web/node-2/src/exceptions/BaseError.ts:14:15)\n' +
+    '    at index (/home/sargis/Web/node-2/src/controllers/TestController.ts:16:19)\n' +
+    '    at Layer.handle [as handle_request] (/home/sargis/Web/node-2/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/home/sargis/Web/node-2/node_modules/express/lib/router/route.js:144:13)\n' +
+    '    at Route.dispatch (/home/sargis/Web/node-2/node_modules/express/lib/router/route.js:114:3)\n' +
+    '    at Layer.handle [as handle_request] (/home/sargis/Web/node-2/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /home/sargis/Web/node-2/node_modules/express/lib/router/index.js:284:15\n' +
+    '    at Function.process_params (/home/sargis/Web/node-2/node_modules/express/lib/router/index.js:346:12)\n' +
+    '    at next (/home/sargis/Web/node-2/node_modules/express/lib/router/index.js:280:10)\n' +
+    '    at Function.handle (/home/sargis/Web/node-2/node_modules/express/lib/router/index.js:175:3)',
+  label: undefined,
+  timestamp: 'Dec-02-2022 11:31:49'
+}
+{
+  name: 'Error',
+  statusCode: 400,
+  isOperational: true,
+  level: 'error',
+  message: 'Bad request',
+  stack: 'Error: Bad request\n' +
+    '    at new BaseError (/home/sargis/Web/node-2/src/exceptions/BaseError.ts:14:15)\n' +
+    '    at index (/home/sargis/Web/node-2/src/controllers/TestController.ts:17:19)\n' +
+    '    at Layer.handle [as handle_request] (/home/sargis/Web/node-2/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/home/sargis/Web/node-2/node_modules/express/lib/router/route.js:144:13)\n' +
+    '    at Route.dispatch (/home/sargis/Web/node-2/node_modules/express/lib/router/route.js:114:3)\n' +
+    '    at Layer.handle [as handle_request] (/home/sargis/Web/node-2/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /home/sargis/Web/node-2/node_modules/express/lib/router/index.js:284:15\n' +
+    '    at Function.process_params (/home/sargis/Web/node-2/node_modules/express/lib/router/index.js:346:12)\n' +
+    '    at next (/home/sargis/Web/node-2/node_modules/express/lib/router/index.js:280:10)\n' +
+    '    at Function.handle (/home/sargis/Web/node-2/node_modules/express/lib/router/index.js:175:3)',
+  timestamp: 'Dec-02-2022 11:34:01'
+}
+{
+  name: 'Error',
+  statusCode: 400,
+  isOperational: true,
+  level: 'error',
+  message: 'Bad request',
+  stack: 'Error: Bad request\n' +
+    '    at new BaseError (/home/sargis/Web/node-2/src/exceptions/BaseError.ts:14:15)\n' +
+    '    at index (/home/sargis/Web/node-2/src/controllers/TestController.ts:16:19)\n' +
+    '    at Layer.handle [as handle_request] (/home/sargis/Web/node-2/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/home/sargis/Web/node-2/node_modules/express/lib/router/route.js:144:13)\n' +
+    '    at Route.dispatch (/home/sargis/Web/node-2/node_modules/express/lib/router/route.js:114:3)\n' +
+    '    at Layer.handle [as handle_request] (/home/sargis/Web/node-2/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /home/sargis/Web/node-2/node_modules/express/lib/router/index.js:284:15\n' +
+    '    at Function.process_params (/home/sargis/Web/node-2/node_modules/express/lib/router/index.js:346:12)\n' +
+    '    at next (/home/sargis/Web/node-2/node_modules/express/lib/router/index.js:280:10)\n' +
+    '    at Function.handle (/home/sargis/Web/node-2/node_modules/express/lib/router/index.js:175:3)',
+  timestamp: 'Dec-02-2022 11:35:16'
+}
+{
+  name: 'Error',
+  statusCode: 400,
+  isOperational: true,
+  level: 'error',
+  message: 'Bad request',
+  stack: 'Error: Bad request\n' +
+    '    at new BaseError (/home/sargis/Web/node-2/src/exceptions/BaseError.ts:14:15)\n' +
+    '    at index (/home/sargis/Web/node-2/src/controllers/TestController.ts:16:19)\n' +
+    '    at Layer.handle [as handle_request] (/home/sargis/Web/node-2/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/home/sargis/Web/node-2/node_modules/express/lib/router/route.js:144:13)\n' +
+    '    at Route.dispatch (/home/sargis/Web/node-2/node_modules/express/lib/router/route.js:114:3)\n' +
+    '    at Layer.handle [as handle_request] (/home/sargis/Web/node-2/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /home/sargis/Web/node-2/node_modules/express/lib/router/index.js:284:15\n' +
+    '    at Function.process_params (/home/sargis/Web/node-2/node_modules/express/lib/router/index.js:346:12)\n' +
+    '    at next (/home/sargis/Web/node-2/node_modules/express/lib/router/index.js:280:10)\n' +
+    '    at Function.handle (/home/sargis/Web/node-2/node_modules/express/lib/router/index.js:175:3)',
+  timestamp: 'Dec-02-2022 11:37:36'
+}
+{
+  name: '/api/test',
+  statusCode: 400,
+  isOperational: true,
+  level: 'error',
+  message: 'Bad request',
+  stack: '/api/test: Bad request\n' +
+    '    at new BaseError (/home/sargis/Web/node-2/src/exceptions/BaseError.ts:14:15)\n' +
+    '    at index (/home/sargis/Web/node-2/src/controllers/TestController.ts:16:19)\n' +
+    '    at Layer.handle [as handle_request] (/home/sargis/Web/node-2/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/home/sargis/Web/node-2/node_modules/express/lib/router/route.js:144:13)\n' +
+    '    at Route.dispatch (/home/sargis/Web/node-2/node_modules/express/lib/router/route.js:114:3)\n' +
+    '    at Layer.handle [as handle_request] (/home/sargis/Web/node-2/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /home/sargis/Web/node-2/node_modules/express/lib/router/index.js:284:15\n' +
+    '    at Function.process_params (/home/sargis/Web/node-2/node_modules/express/lib/router/index.js:346:12)\n' +
+    '    at next (/home/sargis/Web/node-2/node_modules/express/lib/router/index.js:280:10)\n' +
+    '    at Function.handle (/home/sargis/Web/node-2/node_modules/express/lib/router/index.js:175:3)',
+  label: 'winston custom format',
+  timestamp: 'Dec-02-2022 11:40:36'
+}
